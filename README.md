@@ -3,4 +3,4 @@ Repository tutorial
 
 Hello stalkers!
 
-Liz here. I'm still trying to figure this out. So till later alligator~
+Liz here. I'm still trying to figure this out.
